@@ -1,11 +1,16 @@
-import React from 'react';
+import { useState } from 'react'
 
-function Head() {
+//------------------------------------------------ Welcome Page--------------------------------------------------------------------------------------
+function Welcome() {
+  const [count, setCount] = useState(0)
+
   return (
-    <header>
-      <h1>Tolgoi heseg</h1>
-    </header>
-  );
+    <>
+      
+      <h1>bruh</h1>
+    </>
+  )
 }
 
-export default Head;
+export default Welcome
+//------------------------------------------------ Welcome Page--------------------------------------------------------------------------------------
