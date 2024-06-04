@@ -2,14 +2,14 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Head from './MainBody/hehe.jsx'
+import Head from './Pages/Welcome.jsx'
 //------------------------------------------------ Welcome Page--------------------------------------------------------------------------------------
-function App() {
+function Welome() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <Head />
+      
       <div>
         <h1>alooooooooooo</h1>
         <a href="https://vitejs.dev" target="_blank">
@@ -35,5 +35,5 @@ function App() {
   )
 }
 
-export default App
+export default Welome
 //------------------------------------------------ Welcome Page--------------------------------------------------------------------------------------

@@ -1,11 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
+import Welcome from './Welcome.jsx'
 import './index.css'
-import Head from './MainBody/hehe.jsx'
+import Head from './Pages/Welcome.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Head />
+    <Welcome />
   </React.StrictMode>,
 )
