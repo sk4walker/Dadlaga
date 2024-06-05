@@ -2,7 +2,7 @@ import { useState } from 'react'
 import 'C:/Users/JAMYANAMARJARGAL/Desktop/Dadlaga/Dadlaga/src/CSS_files/Welcome.css'
 //------------------------------------------------ Welcome Page--------------------------------------------------------------------------------------
 function Welcome() {
-  //hehe
+  //heheEEEE
 
   return (
     <>
